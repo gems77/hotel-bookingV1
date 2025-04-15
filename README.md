@@ -1,4 +1,4 @@
-# Hotel Booking - Gestion des Réservations
+# Hotel BookingV1 - Recherche et filtrage d'hôtels pour réservaton
 
 **Hotel Booking** est une application de gestion des réservations d’hôtels, construite avec **Node.js (Express)** pour le backend et **React (Vite + TypeScript + TailwindCSS)** pour le frontend.
 
