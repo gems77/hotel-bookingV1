@@ -1,0 +1,23 @@
+# 📂 Node.js & dépendances
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# 🌍 Fichiers d’environnement
+.env
+
+# 🔧 Logs et cache
+logs/
+*.log
+*.gz
+
+# 🔄 Build & fichiers temporaires
+dist/
+tmp/
+.cache/
+.DS_Store
+Thumbs.db
+
+# 🚀 Sequelize (migrations & logs DB)
+sequelize-meta.json
